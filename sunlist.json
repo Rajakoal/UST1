@@ -8,7 +8,7 @@
     },
     "tokens": [
         {
-            "chainId": 1,
+            "chainId": "tron",
             "address": "TSJmR5zSRSzL9YckCcnPGTh3tBPBJT1hUY",
             "name": "UST",
             "symbol": "UST",
