@@ -1,19 +1,19 @@
 {
-    "name": "UST Token List",
-    "timestamp": "2025-02-13T00:00:00Z",
-    "version": {
-        "major": 1,
-        "minor": 0,
-        "patch": 0
-    },
-    "tokens": [
-        {
-            "chainId": "tron",
-            "address": "TLhM3wGvyX3MZQm8UrJxJ4fMSz2qWyFx88",
-            "name": "UST",
-            "symbol": "UST",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/Rajakoal/logo1/main/UST.jpg"
-        }
-    ]
+  "name": "UST Token List",
+  "timestamp": "2025-02-13T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TLhM3wGvyX3MZQm8UrJxJ4fMSz2qWyFx88",
+      "name": "UST",
+      "symbol": "UST",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Rajakoal/logo1/main/UST.jpg"
+    }
+  ]
 }
