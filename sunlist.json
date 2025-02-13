@@ -1,0 +1,19 @@
+{
+    "name": "UST Token List",
+    "timestamp": "2025-02-13T00:00:00Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "TSJmR5zSRSzL9YckCcnPGTh3tBPBJT1hUY",
+            "name": "UST",
+            "symbol": "UST",
+            "decimals": 6,
+            "logoURI": "https://clinkusit.net/wp-content/uploads/2025/02/UST.png"
+        }
+    ]
+}
