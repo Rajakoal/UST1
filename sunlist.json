@@ -1,19 +1,129 @@
-{
-  "name": "UST Token List",
-  "timestamp": "2025-02-13T00:00:00Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "TLhM3wGvyX3MZQm8UrJxJ4fMSz2qWyFx88",
-      "name": "UST",
-      "symbol": "UST",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Rajakoal/logo1/main/imresizer-1739865784129.png"
-    }
-  ]
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/imageconvert_usr/data/www/imageconvert.org/image/public/uploadt/WhatsApp Image 2025-02-22 at 22.57.13_a8b9876c.jpg",
+    "format": "json",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 96,
+      "y": 96
+    },
+    "printSize": {
+      "x": 2.66667,
+      "y": 2.66667
+    },
+    "units": "PixelsPerInch",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 65536,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 98.3345,
+        "standardDeviation": 57.5159,
+        "kurtosis": -0.225856,
+        "skewness": 0.798425,
+        "entropy": 0.945328
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 19,
+        "max": 255,
+        "mean": 124.956,
+        "standardDeviation": 59.4324,
+        "kurtosis": -0.640203,
+        "skewness": 0.593239,
+        "entropy": 0.968861
+      },
+      "green": {
+        "min": 4,
+        "max": 255,
+        "mean": 101.659,
+        "standardDeviation": 60.157,
+        "kurtosis": -0.100025,
+        "skewness": 0.898617,
+        "entropy": 0.95607
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 68.3884,
+        "standardDeviation": 52.9582,
+        "kurtosis": 1.10602,
+        "skewness": 1.31555,
+        "entropy": 0.911051
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "matteColor": "#BDBDBD",
+    "transparentColor": "#000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 92,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2025-02-22T17:28:31+00:00",
+      "date:modify": "2025-02-22T17:28:31+00:00",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "baecc792fbd93c35516c54fc634ec9f54f450a40824c4440988589e4a05842e3"
+    },
+    "tainted": false,
+    "filesize": "32573B",
+    "numberPixels": "65536",
+    "pixelsPerSecond": "60.5861MB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.001",
+    "version": "ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org"
+  }
 }
+]
