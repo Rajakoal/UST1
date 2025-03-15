@@ -1,0 +1,18 @@
+{
+    "name": "USIT Token",
+    "symbol": "USIT",
+    "decimals": 18,
+    "description": "USIT Token is a utility token that can be swapped for USDT at a fixed rate.",
+    "image": "https://clinkusit.com/wp-content/uploads/2025/03/WhatsApp_Image_2025-03-14_at_23.44.02_355a4d7b-removebg-preview.png",
+    "external_link": "https://clinkusit.com/",
+    "properties": {
+      "tokenStandard": "ERC20",
+      "price": "3.00 USDT",
+      "swapFee": "1%"
+    },
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61573609060194",
+      "telegram": "https://t.me/usitsmartcoin",
+      "instagram": "https://www.instagram.com/usitsmarts/"
+    }
+  }
